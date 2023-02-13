@@ -9,3 +9,5 @@
 9. Print content to CWD file
 10. Duplicate last line
 11. Delete all js files
+12. count files and directories
+13. Sort and show newest files
