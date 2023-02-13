@@ -18,3 +18,4 @@
 18. hide the word
 19. show the letters
 20. replace AZ
+21. replace Cc
