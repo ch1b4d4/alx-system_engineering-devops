@@ -8,3 +8,4 @@
 8. Create Document and Display including third line
 9. Print content to CWD file
 10. Duplicate last line
+11. Delete all js files
