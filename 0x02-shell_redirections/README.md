@@ -24,3 +24,4 @@
 23. empty directories
 24. Empty files
 24. gif
+25. biggest fan
