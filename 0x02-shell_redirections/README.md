@@ -7,3 +7,4 @@
 7. Third line
 8. Create Document and Display including third line
 9. Print content to CWD file
+10. Duplicate last line
