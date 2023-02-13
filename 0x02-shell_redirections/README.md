@@ -12,3 +12,4 @@
 12. count files and directories
 13. Sort and show newest files
 14. Unique files
+15. echo root
