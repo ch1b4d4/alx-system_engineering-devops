@@ -11,3 +11,4 @@
 11. Delete all js files
 12. count files and directories
 13. Sort and show newest files
+14. Unique files
