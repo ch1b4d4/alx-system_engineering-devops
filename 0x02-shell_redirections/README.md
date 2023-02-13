@@ -6,3 +6,4 @@
 6. First Lines
 7. Third line
 8. Create Document and Display including third line
+9. Print content to CWD file
