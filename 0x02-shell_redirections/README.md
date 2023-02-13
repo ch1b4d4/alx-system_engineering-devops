@@ -17,3 +17,4 @@
 17. next 3 lines after root
 18. hide the word
 19. show the letters
+20. replace AZ
