@@ -19,3 +19,4 @@
 19. show the letters
 20. replace AZ
 21. replace Cc
+22. reverse
