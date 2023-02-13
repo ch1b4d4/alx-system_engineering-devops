@@ -14,3 +14,4 @@
 14. Unique files
 15. echo root
 16. number of words in patttern
+17. next 3 lines after root
