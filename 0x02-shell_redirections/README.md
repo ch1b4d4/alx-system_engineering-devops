@@ -21,3 +21,5 @@
 21. replace Cc
 22. reverse
 23. users and owners
+23. empty directories
+24. Empty files
