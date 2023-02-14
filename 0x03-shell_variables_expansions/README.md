@@ -12,3 +12,4 @@ this is the readme
 12. binary
 13. combinations
 14. next line
+15. hexadecimal
