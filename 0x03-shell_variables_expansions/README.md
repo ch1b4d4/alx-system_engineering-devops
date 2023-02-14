@@ -10,3 +10,4 @@ this is the readme
 9. Pwer and divide
 10. power of
 12. binary
+13. combinations
