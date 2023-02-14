@@ -6,3 +6,4 @@ this is the readme
 5. list the enviromentvariables
 6. print local variables
 7. Create global var
+8. Match ting
