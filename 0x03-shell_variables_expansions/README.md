@@ -5,3 +5,4 @@ this is the readme
 4. count directories
 5. list the enviromentvariables
 6. print local variables
+7. Create global var
