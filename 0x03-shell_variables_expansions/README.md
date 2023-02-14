@@ -7,3 +7,4 @@ this is the readme
 6. print local variables
 7. Create global var
 8. Match ting
+9. Pwer and divide
