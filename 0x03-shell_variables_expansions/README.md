@@ -4,3 +4,4 @@ this is the readme
 3. Create the path
 4. count directories
 5. list the enviromentvariables
+6. print local variables
