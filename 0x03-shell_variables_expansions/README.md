@@ -14,3 +14,4 @@ this is the readme
 14. next line
 15. hexadecimal
 16. quote to rot13
+17. Odd numbers printing
