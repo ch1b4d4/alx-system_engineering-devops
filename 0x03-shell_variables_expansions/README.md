@@ -9,3 +9,4 @@ this is the readme
 8. Match ting
 9. Pwer and divide
 10. power of
+12. binary
