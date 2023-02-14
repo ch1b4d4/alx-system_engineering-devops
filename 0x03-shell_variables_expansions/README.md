@@ -8,3 +8,4 @@ this is the readme
 7. Create global var
 8. Match ting
 9. Pwer and divide
+10. power of
